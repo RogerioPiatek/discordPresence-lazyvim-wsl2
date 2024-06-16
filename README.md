@@ -5,7 +5,7 @@
 - Add the code below
 ```lua
 return {
-  "andweeb/presence.nvim",
+  "jiriks74/presence.nvim",
   event = "UIEnter",
   config = function()
     -- The setup config table shows all available config options with their default values:
